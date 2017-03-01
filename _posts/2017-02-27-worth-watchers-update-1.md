@@ -15,7 +15,7 @@ From the profile page additional metrics are now available, in addition to net w
 
 ![After](../img/Update1/After.png)
 
-I am always looking to add great features, so if you have any suggestions to be sure to contact me.
+I am always looking to add great features, so if you have any suggestions pass them along!
 
 Trevor
 
