@@ -23,7 +23,7 @@ description: A financial support system
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resources:
     - Worth Watchers: "https://trevordowdle.github.io/Net-Worth/"
 
