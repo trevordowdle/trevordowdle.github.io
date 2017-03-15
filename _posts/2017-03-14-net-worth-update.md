@@ -18,7 +18,7 @@ However I know what caused this, primarily a couple of expenses that we don't no
 
 I caved into the Zelda hype (it is a really fun game) and purchased a Nintendo Switch,
 we also purchased three planter boxes. For the first time we plan to grow our own vegatables.
-If all goes well that should help us save money in the future.
+If all goes well and our veggies don't die, that should help us save money in the future.
 
 I am putting enough money away to maximize my HSA and Roth IRA by the end of the year.
 I am also contributing enough to maximize my employers match in my 401k.
@@ -31,8 +31,8 @@ In order to keep our 1.99% interest rate from jumping to 3.99% we would need to 
 (presumably with your solar tax credit) by the beginning of 2018.  So I paid off just enough to ensure we keep the lower rate.
 I also added a little more than usual to savings, eventually one of our old beaters is going to die on us and we'll need to buy a replacement car.
 I want to have enough savings on hand to purchase a reliable car and still have enough to get by for a few months in case of a job loss.
-Everything else we have saved shows up in the **Payoff** category for lack of a better term.  That money basically is earmarked to pay down the mortgage.
 
+Everything else we have saved shows up in the **Payoff** category for lack of a better term.  That money basically is earmarked to pay down the mortgage.
 Our current lender does not allow me to make principal payments during the month, I have to apply the additional principal along with the mortgage payment every month.
 Everything in the cash category will go towards additional principal when the time comes.
 
