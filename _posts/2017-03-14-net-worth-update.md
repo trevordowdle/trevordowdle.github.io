@@ -9,7 +9,7 @@ title: March 2017 Net Worth Update
 
 This month was a little unusual in that we got our tax returns back and it was a significant amount, 
 primarily due to solar tax credits I received as a result of [getting solar panels
-installed](/2017-03-13-purchasing-solar/ "Why Solar Panels made sense for me"){:target="_blank"} in 2016.  
+installed](/2017-03-13-purchasing-solar/ "How solar panels turned out to be one of the best purchases I ever made"){:target="_blank"} in 2016.  
 
 That accounts for the huge Net Worth increase up 12.7k this month as opposed to 6.4k last month.
 If I take away the increase due to the tax returns then we would have netted 5.1k which is roughly 20%
