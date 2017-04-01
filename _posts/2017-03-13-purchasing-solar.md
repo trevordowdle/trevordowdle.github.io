@@ -47,7 +47,7 @@ Why am I telling you this?  Is it just to brag?  No, It's because I believe that
 
 Maybe you find the perfect house, a great investment but you can't quite afford to put 20% down.  Remember you have these options available to you, PMI is not something that has to stick around forever and break the bank.
 
-**My 4 tips to dump your Private Mortgage Insurance**  
+**4 tips to dump your Private Mortgage Insurance**  
 
 1. **No Cost Refinance**  
 Mortgage rates are constantly fluctuating and there will always be banks fighting for your business.  Seek out opportunities for no cost refinances, that will save you money on the appraisal and could even lower your interest rate!  If that doesn't work out be prepared to pay for an appraisal once your have enough equity.  The appraisal will quickly pay for itself once you're free from PMI.  
