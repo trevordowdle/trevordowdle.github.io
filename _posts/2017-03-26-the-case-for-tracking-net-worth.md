@@ -19,7 +19,7 @@ For the first couple of months, I tracked my net worth using Google Sheets, in t
 
 As I was looking into net worth tracking tools, I started to form an idea of building a new tool.  The idea of having a support group as a valuable resource to keep motivated and on track financially.  What if net worth tracking were fun and engaging?  What if you could earn achievements and awards you could display for hitting certain net worth milestones etc...
 
-I am a web developer by trade so I set out to build such an application.  I am calling the application [Worth Watchers](https://trevordowdle.github.io/Net-Worth/) because working towards a sustainable net worth is just as important as maintaining a healthy weight.  The application is currently in its early stages of evolvement, so now is a great time to jump in and help influence the direction of the project.  I would love to get your input.  I am confident we will see many great features implemented based on feedback from early users!
+I am a web developer by trade so I set out to build such an application.  I am calling the application [Worth Watchers](/Net-Worth/) because working towards a sustainable net worth is just as important as maintaining a healthy weight.  The application is currently in its early stages of evolvement, so now is a great time to jump in and help influence the direction of the project.  I would love to get your input.  I am confident we will see many great features implemented based on feedback from early users!
 
 The purpose of this blog is twofold.  First to share new features added to the Worth Watchers application as they are developed.  And second to share monthly net worth updates and retirement goals with you.
 

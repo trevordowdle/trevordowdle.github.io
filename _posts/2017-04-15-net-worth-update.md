@@ -5,7 +5,7 @@ title: April 2017 Net Worth Update
 
 ## Net Worth <span style="color:green;">**$282,409**</span>
 
-##### Up $4,403 from last month
+##### Up $4,403 from [last month](/2017-03-14-net-worth-update/){:target="_blank"}
 
 This month month my net worth increase was lower than average, part of that is because we had some expenses we don't normally have $250 for doTerra oils, and $100 for a computer.  Another variable is that I don't always have control over when my work deposits 401k contributions.  On the 17th two days after I calculated my net worth $323 dollars worth of contributions hit the account.  Of course investment performance is always a factor, however my investments in the market are still quite small in comparison to my overall net worth.
 
