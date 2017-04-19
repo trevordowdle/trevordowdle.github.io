@@ -57,7 +57,7 @@ The reason for this is that I want to reduce noise and bring into focus our key 
 
 | Debts        | Value           | 1 Month Change  |
 | ------------- | -------------:| -----:|
-| House Primary      | $371,302.82    | <span style="color:green;">($621)</span>   |
+| House Primary      | $371,303    | <span style="color:green;">($621)</span>   |
 | Rental   | $58,453 | <span style="color:green;">($2,563)</span> |
 | Solar Panels  | $9,180    | <span style="color:green;">($4032)</span> |
 
