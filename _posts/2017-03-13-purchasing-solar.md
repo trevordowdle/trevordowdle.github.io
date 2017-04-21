@@ -5,7 +5,7 @@ subtitle: and strategies you can use to drop your Mortgage Insurance Premiums
 ---
 
 
-In early 2016 I purchased a house with **only 10% down**, yes you read that right. I broke one of the conventional rules that fiscally sound home buyers live by.  There's a good reason for this rule because, without 20% percent down you, the homeowner is required to pay PMI or private mortgage insurance.  [See Why I decided to purchase the house without enough money to put 20% percent down.](/2017-03-20-second-home/ "A great investment"){:target="_blank"}  
+In early 2016 I purchased a house with **only 10% down**, yes you read that right. I broke one of the conventional rules that fiscally sound home buyers live by.  There's a good reason for this rule because, without 20% percent down you, the homeowner is required to pay PMI or private mortgage insurance.  [See Why I decided to purchase the house without enough money to put 20% percent down.](/2017-04-20-second-home/ "A great investment"){:target="_blank"}  
   
 As a consequence of only paying 10% down, I was stuck with an extra $123.44 a month in mortgage insurance premiums.  My goal was to get rid of that PMI as soon as possible, the alternative, wait 7 years and 8 months for my Loan to Value to reach 78% based on the original amortization schedule.  Paying a **grand total of $11,356.48 in PMI premiums** over that time.  Ouch!!  Understandably my goal was to get rid of it as soon as possible.
   
