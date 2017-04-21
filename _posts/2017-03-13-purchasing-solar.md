@@ -17,7 +17,7 @@ Here's the deal, **the mortgage company is not your friend** in this effort.  Th
 
 When you put in a request to drop your PMI you'll get some information in the mail basically saying that you will need to pay for an appraisal and then if the value is high enough (80% LTV or 20% Equity in the home) they agree to drop your mortgage insurance.
 
-There is nothing more demoralizing than paying $450 dollars for an appraisal, just to have your home appraise 7% lower than the original value of the loan (quite convenient for the mortgage company). Suddenly finding yourself out $450 dollars and thousands of dollars away from dropping those pesky Mortgage Insurance Premiums.  Believe me, [I found myself in this exact situation back in 2013.](/2017-03-20-hard-lessons-learned-dropping-pmi/ "Lessons learned"){:target="_blank"}
+There is nothing more demoralizing than paying $450 dollars for an appraisal, just to have your home appraise 7% lower than the original value of the loan (quite convenient for the mortgage company). Suddenly finding yourself out $450 dollars and thousands of dollars away from dropping those pesky Mortgage Insurance Premiums.  Believe me, [I found myself in this exact situation back in 2013.](/2017-01-20-hard-lessons-learned-dropping-pmi/ "Lessons learned"){:target="_blank"}
 
 Learning from past experience, my strategy to drop Mortgage Insurance Premiums was three-fold.
 
