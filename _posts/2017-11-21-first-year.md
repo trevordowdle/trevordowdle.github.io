@@ -9,8 +9,11 @@ After tracking our Net Worth for one year I know have the ability look back and 
 **Overview**
 
 Our Net Worth went from $237,836 to $312,757 a $74,921 increase.
+
 Our Assets went up from $700,331 to $728,654 a $28,323 increase.
+
 Our Debts went down from $462,495 to $415,897 a $46,598 decrease.
+
 
 We went from owing $74,015 on our rental to $39,570 for a total of $34,445 paid down on the mortgage. That accounts for roughly 46% of our Net Worth gains.
 
