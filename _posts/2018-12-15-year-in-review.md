@@ -8,6 +8,8 @@ This year has been a pretty good and steady year, I feel like we've just been ch
 
 **Overview**
 
+We just passed the 400k milestone!
+
 Our Net Worth is currently $403,975 an increase of 72.5k from December last.
 
 Towards the end of last year the Cryptocurrency market started BOOMING, I had had my eye on Bitcoin for a while and was frusterated that I never jumped in, I told myself now or never and started to invest in the frenzy.  The Crypto market was in a bubble and by march prices started to head down.  Month after month crypto kept falling, insanely bitcoin went from over 19k to currently as i'm typing 3.16k most crypto coins have followed the same pattern or even done worse.  Hemmoraging value.  
