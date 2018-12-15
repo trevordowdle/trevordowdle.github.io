@@ -4,7 +4,7 @@ title: The year in review
 subtitle: December 15 2018
 ---
 
-This year has been a pretty good and steady year, I feel like we've just been chugging along maintaining a healthy savings and investments throughout the year.  Things have been a little different because we are now renting out our basement to family.  Which merits a lower rental rate, they are responsible and a known commodity and will help out with repairs and give us a lot of flexibility when needing to get things fixed downstairs.
+This year has been a pretty good and steady year, I feel like we've just been chugging along maintaining a healthy savings and investments throughout the year.  Though i've been dabbling cryptocurrency which I admit is a bit of a gamble and far from a sure thing.
 
 **Overview**
 
