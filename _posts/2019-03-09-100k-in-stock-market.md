@@ -10,9 +10,9 @@ Earlier this year we passed 100k invested in the stock market. We dipped below t
 
 **Break Down**
 
-401K: <span style="color:green;">$36,287</span>
-Roth IRA: <span style="color:green;">$44,745</span>
-HSA: <span style="color:green;">$19,260</span>
+401K: <span style="color:green;">$36,287</span>  
+Roth IRA: <span style="color:green;">$44,745</span>  
+HSA: <span style="color:green;">$19,260</span>  
 
 Total:<span style="color:green;">$100,292</span>
 
