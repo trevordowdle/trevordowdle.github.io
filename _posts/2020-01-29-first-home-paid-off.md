@@ -20,12 +20,12 @@ We continued to invest heavily in retirement funds through 2019.  That combined 
 
 **January 29th Break Down**
 
-401K: <span style="color:green;">$63,577</span>
-ROTH 401K: <span style="color:green;">$12,689</span>    
-Roth IRA: <span style="color:green;">$53,564</span>  
-HSA: <span style="color:green;">$32,222</span>  
+401K: <span style="color:green;">$63,577</span>  
+ROTH 401K: <span style="color:green;">$12,689</span>      
+Roth IRA: <span style="color:green;">$53,564</span>    
+HSA: <span style="color:green;">$32,222</span>    
 
-Total:<span style="color:green;">$162,052</span>
+Total:<span style="color:green;">$162,052</span>  
 
 For historical context check out a graph of our [NetWorth over time](/Net-Worth/profile/?user=yhxzTiGfYRe5j5IpB6Xw2nmZUTJ2){:target="_blank"}.
 
